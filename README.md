@@ -2,6 +2,6 @@ A few days ago I found out that Gnome had a lot of awesome icon packs back in th
 
 What has been changed?
 
-New links for MATE Desktop so that all icons now correctly use Gartoon icons.
+1. New links for MATE Desktop so that all icons now correctly use Gartoon icons.
 
-Some icons I made myself to fit the Gartoon theme, like Spotify, Discord, Chatty etc. Since this is as unofficial as it gets, I didn’t mind using AI for shaping the icons. I still did the coloring and fixing myself.
+2. Some icons I made myself to fit the Gartoon theme, like Spotify, Discord, Chatty etc. Since this is as unofficial as it gets, I didn’t mind using AI for shaping the icons. I still did the coloring and fixing myself.
